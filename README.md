@@ -1,6 +1,7 @@
 ﻿# attendacen-management-system
 # attendacen-management-system
-
+ENROLLMENT NO.- 20115046
+EMAIL ID- jaidev_g@ee.iitr.ac.in
 
 Introduction :
 The Attendance Management System presented in this project leverages cutting-edge technologies 
